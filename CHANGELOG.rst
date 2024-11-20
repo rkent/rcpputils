@@ -2,8 +2,8 @@
 Changelog for package rcpputils
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+2.13.2 (2024-11-20)
+-------------------
 * fix memory leak for remove_all(). (`#201 <https://github.com/ros2/rcpputils/issues/201>`_)
 * Contributors: Tomoya Fujita
 
